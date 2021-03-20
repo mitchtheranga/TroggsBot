@@ -1,0 +1,7 @@
+name: TroggsBot
+version: 0.1
+main: troggs.Main
+api-version: 1.16
+authors: [ Troggs ]
+commands:
+  saysmth:
